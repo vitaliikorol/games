@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@200&display=swap');
+
+.Footer {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  background-color: #282c34;
+  max-width: 1200px;
+  justify-content: center;
+  align-items: center;
+  padding: 0 calc((100vw - 1200px)/2);
+  margin: 0 auto;
+  &__img {
+    margin: 0 30px;
+  }
+  &__list {
+    padding: 0;
+    list-style: none;
+
+    text-align: center;
+    &_active {
+      text-shadow: 0 0 9px white;
+      font-weight: bold;
+    }
+    &_item {
+      font-family: 'MuseoModerno', cursive;
+      transition: text-shadow 0.3s;
+      white-space: nowrap;
+      padding-bottom: 10px;
+      position: relative;
+    }
+  }
+  &__img {
+    width: 50px;
+    height: 50px;
+  }
+
+  &__link {
+    text-decoration: none;
+    color: white;
+    position: relative;
+    &::after{
+      content: "";
+      background: white;
+      mix-blend-mode: exclusion;
+      width: calc(100% + 20px);
+      height: 0;
+      position: absolute;
+      bottom: -4px;
+      left: -10px;
+      transition: all .3s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+    }
+
+    &:hover::after{
+      height: calc(100% + 8px)
+    }
+
+    &_active {
+      font-weight: bold;
+      &::after {
+        content: "";
+        height: calc(100% + 8px);
+        background: white;
+        mix-blend-mode: exclusion;
+        position: absolute;
+        bottom: -4px;
+        left: -10px;
+      }
+    }
+  }
+  &__article {
+
+    &_text {
+      color: #f9bfb7;
+    }
+  }
+}
