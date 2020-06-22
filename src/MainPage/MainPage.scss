@@ -1,3 +1,17 @@
 .MainPage {
-  background-image: url('../images/background.jpg');
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  //flex-wrap: wrap;
+  &__list {
+    list-style: none;
+    &_item {
+      max-width: 200px;
+      max-height: 200px;
+      border-radius: 20px;
+      overflow: hidden;
+      background-image: url("../images/1.png");
+    }
+  }
 }
