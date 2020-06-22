@@ -23,7 +23,7 @@ export const Footer = () => {
                         </NavLink>
                     </li>
                 </ul>
-                <img className="Footer__img" src={require('../images/age.png')} alt="18+ only"/>
+                <img className="Footer__img" src='images/age.png' alt="18+ only"/>
                 <article className="Footer__article">
                     <p className="Footer__article_text">
                         This is a website for social games. All players must

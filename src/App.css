@@ -1,7 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-  /*background-image: url('images/background.jpg');*/
+  background-image: url("/public/images/background.jpg");
+}
+
+.App {
   background-repeat: no-repeat;
   background-size: cover;
 }
