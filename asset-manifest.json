@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vitaliikorol.github.io/games/static/css/main.aa3015c0.chunk.css",
-    "main.js": "/vitaliikorol.github.io/games/static/js/main.4ce02294.chunk.js",
-    "main.js.map": "/vitaliikorol.github.io/games/static/js/main.4ce02294.chunk.js.map",
-    "runtime-main.js": "/vitaliikorol.github.io/games/static/js/runtime-main.fe3b9be5.js",
-    "runtime-main.js.map": "/vitaliikorol.github.io/games/static/js/runtime-main.fe3b9be5.js.map",
-    "static/js/2.8671d02e.chunk.js": "/vitaliikorol.github.io/games/static/js/2.8671d02e.chunk.js",
-    "static/js/2.8671d02e.chunk.js.map": "/vitaliikorol.github.io/games/static/js/2.8671d02e.chunk.js.map",
-    "index.html": "/vitaliikorol.github.io/games/index.html",
-    "precache-manifest.52f207e63054ab3ce26087307a9273e6.js": "/vitaliikorol.github.io/games/precache-manifest.52f207e63054ab3ce26087307a9273e6.js",
-    "service-worker.js": "/vitaliikorol.github.io/games/service-worker.js",
-    "static/css/main.aa3015c0.chunk.css.map": "/vitaliikorol.github.io/games/static/css/main.aa3015c0.chunk.css.map",
-    "static/js/2.8671d02e.chunk.js.LICENSE.txt": "/vitaliikorol.github.io/games/static/js/2.8671d02e.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.aa3015c0.chunk.css",
+    "main.js": "./static/js/main.4ce02294.chunk.js",
+    "main.js.map": "./static/js/main.4ce02294.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c633cc4b.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c633cc4b.js.map",
+    "static/js/2.8671d02e.chunk.js": "./static/js/2.8671d02e.chunk.js",
+    "static/js/2.8671d02e.chunk.js.map": "./static/js/2.8671d02e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.4dfca3c513f40c9b246ffce29d53f76c.js": "./precache-manifest.4dfca3c513f40c9b246ffce29d53f76c.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.aa3015c0.chunk.css.map": "./static/css/main.aa3015c0.chunk.css.map",
+    "static/js/2.8671d02e.chunk.js.LICENSE.txt": "./static/js/2.8671d02e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe3b9be5.js",
+    "static/js/runtime-main.c633cc4b.js",
     "static/js/2.8671d02e.chunk.js",
     "static/css/main.aa3015c0.chunk.css",
     "static/js/main.4ce02294.chunk.js"
