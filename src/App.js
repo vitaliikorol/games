@@ -8,7 +8,7 @@ import {Terms} from "./Terms/Terms";
 import {Cookies} from "./Cookies/Cookies";
 import {Privacy} from "./Privacy/Privacy";
 
-function App() {
+export const App = () => {
     return (
         <div className="App">
             <Header/>
@@ -23,5 +23,3 @@ function App() {
 
     );
 }
-
-export default App;
