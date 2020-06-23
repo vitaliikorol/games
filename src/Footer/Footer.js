@@ -4,7 +4,8 @@ import {NavLink} from "react-router-dom";
 
 export const Footer = () => {
     return (
-        <section className="Footer">
+        <div className="Footer_wrapper">
+            <section className="Footer">
                 <ul className="Footer__list">
                     <li className='Footer__list_item'>
                         <NavLink activeClassName="Footer__link_active" className="Footer__link"
@@ -34,6 +35,7 @@ export const Footer = () => {
                         money or prize money can be and will be claimed.
                     </p>
                 </article>
-        </section>
+            </section>
+        </div>
     )
 }

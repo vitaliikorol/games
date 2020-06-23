@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@200&display=swap');
 
 .Footer {
-  position: absolute;
-  bottom: 0;
   display: flex;
-  background-color: #282c34;
   max-width: 1200px;
   justify-content: center;
   align-items: center;
-  padding: 0 calc((100vw - 1200px)/2);
+  padding: 0 30px;
   margin: 0 auto;
+  &_wrapper {
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+  }
   &__img {
     margin: 0 30px;
   }

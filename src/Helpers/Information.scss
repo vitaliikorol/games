@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@200&display=swap');
+
+.Information {
+  max-width: 1200px;
+  padding: 30px;
+  font-family: 'MuseoModerno', cursive;
+  color: white;
+  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+  &__header {
+    margin-top: 0;
+    padding-top: 20px;
+  }
+  &__last {
+    margin-bottom: 0;
+    padding-bottom: 20px;
+  }
+}

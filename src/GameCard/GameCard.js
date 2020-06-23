@@ -1,4 +1,5 @@
 import React, {useState} from "react";
+import './GameCard.scss'
 
 export const GameCard = (props) => {
 
@@ -13,16 +14,16 @@ export const GameCard = (props) => {
         setSize(200)
     }
     return (
-        <div className="MainPage__list_item game"
+        <div className="GameCard"
             onMouseEnter={makeVisible} onMouseLeave={makeHidden}
         >
             <img
-                className="game__image"
+                className="GameCard__image"
                 src={props.img}
                 alt=""
                 style={{maxWidth: `${size}px`, maxHeight: `${size}px`}}
             />
-            <button className="game__btn"
+            <button className="GameCard__btn"
                     style={{opacity: `${opacity}`}}
             >Play game
             </button>
