@@ -10,7 +10,7 @@ export const Header = () => {
                     <NavLink className="Header__link" to="/">
                         <img
                             className='Header__list_logo'
-                            src="images/game-controller.png"
+                            src="images/logo.png"
                             alt=""
                         />
                     </NavLink>

@@ -5,7 +5,7 @@ import {HashRouter} from "react-router-dom";
 import {App} from "./App";
 
 ReactDOM.render(
-    <HashRouter basename="/react_phone-catalog">
+    <HashRouter basename="/games">
         <App />
     </HashRouter>,
     document.getElementById('root'),

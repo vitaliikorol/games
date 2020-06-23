@@ -1,5 +1,6 @@
 import React, {useState} from "react";
 import './GameCard.scss'
+import {NavLink} from "react-router-dom";
 
 export const GameCard = (props) => {
 
@@ -23,10 +24,12 @@ export const GameCard = (props) => {
                 alt=""
                 style={{maxWidth: `${size}px`, maxHeight: `${size}px`}}
             />
-            <button className="GameCard__btn"
-                    style={{opacity: `${opacity}`}}
+            <NavLink
+                to={`/${props.game.title.split(' ').join('')}`}
+                className="GameCard__btn"
+                style={{opacity: `${opacity}`}}
             >Play game
-            </button>
+            </NavLink>
         </div>
     )
 }
