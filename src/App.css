@@ -1,16 +1,13 @@
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("https://www.rushhourdaily.com/wp-content/uploads/2020/02/gambling-2001078_1280.jpg"), no-repeat;
-  background-size: cover;
-;
 
 }
 
 .App {
-  height: 100vh;
-  background-repeat: no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("https://www.rushhourdaily.com/wp-content/uploads/2020/02/gambling-2001078_1280.jpg"), no-repeat;
   background-size: cover;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;

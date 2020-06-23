@@ -1,25 +1,25 @@
-@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@200&display=swap');
 
 .Preloader {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: 'MuseoModerno', cursive;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+
   &__header {
     text-align: center;
     color: white;
-
     font-size: 3em;
   }
   &__btn {
-    width: 30vw;
-    height: 10vw;
+    width: 20vw;
+    height: 5vw;
     border-radius: 5vw;
     background-color: #8ff9a4;
     cursor: pointer;
-    font-family: 'MuseoModerno', cursive;
-    font-size: 5vw;
+    font-style: italic;
+    font-size: 2vw;
     text-transform: uppercase;
     font-weight: bold;
     &:active {
@@ -28,5 +28,13 @@
       color: white;
     }
 
+  }
+}
+
+@media screen and (max-width: 570px){
+  .Preloader__btn {
+    width: 100%;
+    height: 10vw;
+    font-size: 5vmin;
   }
 }

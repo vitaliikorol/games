@@ -20,7 +20,6 @@ export const App = () => {
         gamesFromServer.then(data => setGames(data));
     }, [gamesFromServer]);
 
-
     return (
         <div className="App">
             <Header/>

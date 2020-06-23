@@ -50,8 +50,12 @@
       &:last-child {
         margin-right: 0;
       }
-
-
     }
   }
+}
+
+@media screen and (max-width: 500px){
+.Header__list {
+  width: 100%;
+}
 }
