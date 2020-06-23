@@ -9,6 +9,7 @@ import {Cookies} from "./Cookies/Cookies";
 import {Privacy} from "./Privacy/Privacy";
 
 export const App = () => {
+
     return (
         <div className="App">
             <Header/>
