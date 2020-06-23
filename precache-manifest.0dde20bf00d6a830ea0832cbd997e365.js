@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2dbaf1d8881fb39694406ed94205018e",
+    "revision": "672654fd928faba94006deb45c9174ee",
     "url": "/vitaliikorol.github.io/games/index.html"
   },
   {
-    "revision": "32cfb9de6ad8b7cbc702",
-    "url": "/vitaliikorol.github.io/games/static/css/main.5e2bd74d.chunk.css"
+    "revision": "979826ad6c1a25f36878",
+    "url": "/vitaliikorol.github.io/games/static/css/main.aa3015c0.chunk.css"
   },
   {
     "revision": "0eb0366b630902d84753",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vitaliikorol.github.io/games/static/js/2.8671d02e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32cfb9de6ad8b7cbc702",
+    "revision": "979826ad6c1a25f36878",
     "url": "/vitaliikorol.github.io/games/static/js/main.b78f2c99.chunk.js"
   },
   {

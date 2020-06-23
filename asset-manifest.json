@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vitaliikorol.github.io/games/static/css/main.5e2bd74d.chunk.css",
+    "main.css": "/vitaliikorol.github.io/games/static/css/main.aa3015c0.chunk.css",
     "main.js": "/vitaliikorol.github.io/games/static/js/main.b78f2c99.chunk.js",
     "main.js.map": "/vitaliikorol.github.io/games/static/js/main.b78f2c99.chunk.js.map",
     "runtime-main.js": "/vitaliikorol.github.io/games/static/js/runtime-main.fe3b9be5.js",
@@ -8,15 +8,15 @@
     "static/js/2.8671d02e.chunk.js": "/vitaliikorol.github.io/games/static/js/2.8671d02e.chunk.js",
     "static/js/2.8671d02e.chunk.js.map": "/vitaliikorol.github.io/games/static/js/2.8671d02e.chunk.js.map",
     "index.html": "/vitaliikorol.github.io/games/index.html",
-    "precache-manifest.2cb78b0378d6c0b211efe91d80c8af38.js": "/vitaliikorol.github.io/games/precache-manifest.2cb78b0378d6c0b211efe91d80c8af38.js",
+    "precache-manifest.0dde20bf00d6a830ea0832cbd997e365.js": "/vitaliikorol.github.io/games/precache-manifest.0dde20bf00d6a830ea0832cbd997e365.js",
     "service-worker.js": "/vitaliikorol.github.io/games/service-worker.js",
-    "static/css/main.5e2bd74d.chunk.css.map": "/vitaliikorol.github.io/games/static/css/main.5e2bd74d.chunk.css.map",
+    "static/css/main.aa3015c0.chunk.css.map": "/vitaliikorol.github.io/games/static/css/main.aa3015c0.chunk.css.map",
     "static/js/2.8671d02e.chunk.js.LICENSE.txt": "/vitaliikorol.github.io/games/static/js/2.8671d02e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fe3b9be5.js",
     "static/js/2.8671d02e.chunk.js",
-    "static/css/main.5e2bd74d.chunk.css",
+    "static/css/main.aa3015c0.chunk.css",
     "static/js/main.b78f2c99.chunk.js"
   ]
 }
