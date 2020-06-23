@@ -1,0 +1,536 @@
+[
+  {
+    "title": "The Great Pigsby",
+    "img": "game-images/the-great-pigsby.png",
+    "iframe": "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=thegreatpigsby&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr": "Immerse yourself in glad rags, 30’s glitz and the golden era. The party is in full swing in this decadent new 5x3 video slot, where the reels are overflowing with champagne, music and more than a touch of glamour. Welcome to The Great Pigsby!"
+  },
+  {
+    "title"  : "Sunset",
+    "img"    : "game-images/sunset.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=sunset&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Immerse yourself in a high-paced ride into the Sunset with cascading wins and re-triggering free spins. Set against a desert-land backdrop, the big city awaits in free-spin mode. This beautiful 5 x 3 video slot is medium volatility and suitable for all players."
+  },
+  {
+    "title"  : "Monkey God",
+    "img"    : "game-images/monkey-god.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=monkeygod&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Monkey God combines the pure excitement of choosing volatility from 4 different types of game play, with a collection mechanic that has been proven to drive player engagement. It features an accumulation meter to win bonus spins, 243 ways pays, a personal jackpot, and different betting levels to enable a different number of higher-paying Golden symbols."
+  },
+  {
+    "title"  : "Epic Joker",
+    "img"    : "game-images/epic-joker.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=epicjoker&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Epic Joker offers a modern twist on a classic slot and is brought to you by Relax Gaming. Featuring all symbols we know and love, with the addition of a vibrant joker, players can laugh all the way to the bank with a max single win of x500 bet jackpot for 3 Stacked Jokers."
+  },
+  {
+    "title"  : "Zombie Circus",
+    "img"    : "game-images/zombie-circus.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=zombiecircus&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Ladies and gentlemen take your seats, for the show is about to begin! Zombie Circus is a 5x3 video slot with bonus symbols and a pick one zombie-slaying bonus round. The bonus round awards 3-15 freespins, with up to three symbol types turned into wilds."
+  },
+  {
+    "title"  : "Van Gogh",
+    "img"    : "game-images/van-gogh.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=vangogh&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : ""
+  },
+  {
+    "title"  : "Erik the Red",
+    "img"    : "game-images/erik-the-red.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=erikthered&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : ""
+  },
+  {
+    "title"  : "Relax Blackjack",
+    "img"    : "game-images/relax-blackjack.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=blackjackneo&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : ""
+  },
+  {
+    "title"  : "Relax Roulette",
+    "img"    : "game-images/relax-roulette.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=roulettenouveau&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : ""
+  },
+  {
+    "title"  : "Desert Shark",
+    "img"    : "game-images/Desert-shark.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&amp;gameid=desertshark&amp;moneymode=fun&amp;jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Lil Devil",
+    "img"    : "game-images/lil-devil.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&amp;gameid=lildevil&amp;moneymode=fun&amp;jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Sugar Cubes",
+    "img"    : "game-images/sugar-cubes.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&amp;gameid=sugarcubes&amp;moneymode=fun&amp;jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Wild Joker",
+    "img"    : "game-images/wild-joker.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=wildjokerstacks&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Crystal Cavern",
+    "img"    : "game-images/crystal-cavern.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=crystalcavern&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Heroes’ Gathering",
+    "img"    : "game-images/heroes-gathering.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=heroesgathering&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Snake Arena",
+    "img"    : "game-images/snake-arena.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=snakearena&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Trail Blazer",
+    "img"    : "game-images/trail-blazer.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=trailblazer&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Ricky Riches",
+    "img"    : "game-images/ricky-riches.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=rickyrichesboosterreel&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Pyro Pixie",
+    "img"    : "game-images/pyro-pixie.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=pyropixie&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "El Dorado",
+    "img"    : "game-images/el-dorado.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=eldorado&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Millionaire",
+    "img"    : "game-images/millionaire.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=millionaire&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Wildchemy",
+    "img"    : "game-images/wildchemy.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=wildchemy&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "White Rabbit",
+    "img"    : "game-images/white-rabbit.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=whiterabbit&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Joker Jackpots",
+    "img"    : "game-images/joker-jackpots.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=jokerjackpot&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Big Bounty Bill",
+    "img"    : "game-images/big-bounty-bill.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=bigbountybill&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Tower Tumble",
+    "img"    : "game-images/tower-tumble.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=towertumble&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Kingmaker",
+    "img"    : "game-images/kingmaker.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=kingmaker&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "100 Bit Dice",
+    "img"    : "game-images/100-bit-dice.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=100bitdice&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Rockys Gold",
+    "img"    : "game-images/rockys-gold.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=rockysgold&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Diamond Hunt",
+    "img"    : "game-images/diamond-hunt.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=operationdiamondhunt&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Its Time!!",
+    "img"    : "game-images/its-time.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=itstime&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Rumble",
+    "img"    : "game-images/rumble.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=rumble&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Casino On the House",
+    "img"    : "game-images/casino-on-the-house.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=onthehouse&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Zombie Queen",
+    "img"    : "game-images/zombie-queen.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=zombiequeen&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Hypernova Megaways",
+    "img"    : "game-images/hypernova-megaways.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=hypernovamegaways&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Splendour Forest",
+    "img"    : "game-images/splendour-forest.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=splendourforest&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Caribbean Anne",
+    "img"    : "game-images/caribbean-anne.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=caribbeananne&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Dragon 50000",
+    "img"    : "game-images/dragon-50000.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=dragon50000&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Money Train",
+    "img"    : "game-images/money-train.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=moneytrain&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Extra Chilli",
+    "img"    : "game-images/extra-chilli.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=extrachilli&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Opal Fruits",
+    "img"    : "game-images/opal-fruits.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=opalfruits&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Fruit Strike",
+    "img"    : "game-images/fruit-strike.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=fruitstrike&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Powerspin",
+    "img"    : "game-images/powerspin.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=powerspin&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Midas Treasure",
+    "img"    : "game-images/midas-treasure.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=midastreasure&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "The Golden Chase",
+    "img"    : "game-images/the-golden-chase.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=chase&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Ignite the Night",
+    "img"    : "game-images/ignite-the-night.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=ignitethenight&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Doctor Electro",
+    "img"    : "game-images/doctor-electro.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=cavemanbob&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Caveman Bob",
+    "img"    : "game-images/caveman-bob.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=drelectro&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Bonanza",
+    "img"    : "game-images/bonanza.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=bonanza&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Jupiter\"s Choice",
+    "img"    : "game-images/jupiters-choice.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=jupiterschoice&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Danger High Voltage",
+    "img"    : "game-images/danger-high-voltage.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=highvoltage&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "King of Kings",
+    "img"    : "game-images/king-of-kings.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=kingofkings&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "The Final Countdown",
+    "img"    : "game-images/the-final-countdown.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=finalcountdown&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Perfect Catch",
+    "img"    : "game-images/perfect-catch.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=perfectcatch&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Hong Bao",
+    "img"    : "game-images/hong-bao.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=hongbao&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Dragons\" Awakening",
+    "img"    : "game-images/dragons-awakening.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=dragonsawakening&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Boost It",
+    "img"    : "game-images/boost-it.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=boostit&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Temple Tumble",
+    "img"    : "game-images/temple-tumble.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=templetumble&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Slotdice",
+    "img"    : "game-images/slotdice.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=slotdice&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Machina",
+    "img"    : "game-images/machina.png",
+    "iframe" : "<iframe src='https://d3nsdzdtjbr5ml.cloudfront.net/casino/launcher.html?channel=web&gameid=machina&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>"
+  },
+  {
+    "title"  : "Icarus Wilds",
+    "img"    : "game-images/icarus-wilds.png",
+    "iframe" : "<iframe src='https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html?channel=web&gameid=icaruswilds&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Follow Ricky Riches as Icarus in his escape from Crete. Icarus Wilds is a WILD packed game featuring Flying Wilds nudging upwards for following spins, Locked Wilds sticky over spins and Multiplier Wilds. With the ever-exciting Icarus Free Spins lasting “Until no more Wilds” appearing."
+  },
+  {
+    "title"  : "Mega Masks",
+    "img"    : "game-images/mega_masks.png",
+    "iframe" : "<iframe src='https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html?channel=web&gameid=megamasks&moneymode=fun&jurisdiction=MT' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Deep in the Guatemalan jungle, uncovered behind centuries of overgrown fauna, the Mega Mask Temple is reawakened. As though grasped in the hand of its creator, the stiff rubble reels start turning again – so let the games begin."
+  },
+  {
+    "title"  : "Ninja vs Samurai",
+    "img"    : "game-images/NinjavsSamurai.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/ninja-vs-samurai/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "During the Sengoku period in Japan, the practice of hiring mercenaries to protect themselves is very common for rich families who can afford it. Naturally, the Samurai clan and the Ninja clan are both vying for such positions, hoping to bring honour, respect and wealth to their clan if chosen. Due to this ongoing feud between the two clans, Samurais and Ninjas are seen fighting daily, hoping to show their strengths and power to all the rich families that were still hiring."
+  },
+  {
+    "title"  : "Journey To The Wealth",
+    "img"    : "game-images/journey.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/journey-to-the-wealth/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "The monk, Tripitaka, the reincarnation of Buddha, has been chosen by the Emperor to retrieve the sacred sutras from the west. Along the way, the golden cudgel wielding Monkey King, Pig who is capable of performing 36 transformations and Sandy who wields a magic weapon, have all agreed to protect him from monsters and demons during the journey. "
+  },
+  {
+    "title"  : "Captain’s Bounty",
+    "img"    : "game-images/captains-bounty.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/captains-bounty/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Captain Blackbeard is an infamous pirate of the seven seas. He is famous for attacking and looting merchant ships travelling through his territory. Throughout his reign, hundreds to thousands of ships had been looted by this fearsome pirate. But when Blackbeard unexpectedly dies in battle, the location of all his fortune and treasures perished with him. Numerous young seamen have tried to locate Blackbeard’s treasure to no avail."
+  },
+  {
+    "title"  : "Candy Burst",
+    "img"    : "game-images/candy-burst.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/candy-burst/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https://www.pgsoft.com/en/games/58/' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Sugar, spice and everything nice! Unlimited delicious candy awaits you in PG SOFT™’s newest game, Candy Burst! Players with a sweet tooth will not only find this game satisfying for all your candy cravings but will also be shocked by the amount of hidden surprises that awaits them! Candy Burst is a 6 by 6 symbols combination video slot featuring special symbols that cascades more wins."
+  },
+  {
+    "title"  : "Dragon Hatch",
+    "img"    : "game-images/dragon-hatch.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/dragon-hatch/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "The soft rays of the rising sun enter the mysterious cave through the cracks in the cavern’s ceiling, illuminating the opulent treasure and jewels scattered all over the cavity. Atop the colossal pile of gold coins a nest of cream-coloured, gargantuan eggs stand tall. It is prophesied that when the lord of the dragons enters the cave of wonders, the eggs will hatch into dragons, each bringing different powers and wealth to their rightful master!"
+  },
+  {
+    "title"  : "Reel Love",
+    "img"    : "game-images/reel-love.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/reel-love/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Love can happen anytime anywhere! Even in the new apartment that you just moved into! Meet Rick, an average guy just looking for love, who unexpectedly meets 3 beautiful women who happens to be his neighbors! Tiffany the beautiful blonde socialite, Karen the sexy neighbor next door and Anna, a quiet and shy university student. "
+  },
+  {
+    "title"  : "Shaolin Soccer",
+    "img"    : "game-images/shaolin_soccer.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/shaolin-soccer/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "“Shaolin Team”, a soccer team that has never been seen before, was created when a group of martial arts youngsters decided to combine Kungfu and soccer after losing their fighting spirit. The “Mightly Steel Leg” will lead the “Lightning Ghost Hands” goalkeeper, “Iron Head” header, and “Weightless” winger, to the national soccer competition to compete for the championship title!"
+  },
+  {
+    "title"  : "Ganesha Gold",
+    "img"    : "game-images/ganeshagold.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/ganesha-gold/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Ganesha, the God of New Beginnings, Success and Wisdom, has been worshipped for centuries for his grace and wisdom. His knowledge and teachings have led many of his followers down a happy and prosperous life. It has been known that all of his followers are guided to the path of fortune and wealth, resulting in them all being very successful in life. "
+  },
+  {
+    "title"  : "Fortune Mouse",
+    "img"    : "game-images/fortune-mouse.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/fortune-mouse/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Legend has it that the Jade Emperor organized a river crossing competition to select twelve animals to be the twelve zodiac signs. Many animals enthusiastically entered after hearing about this news. On the day of the competition, the cow was ahead of the race."
+  },
+  {
+    "title"  : "Tiki Go",
+    "img"    : "game-images/tikigo.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/tiki-go/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Lightning flashed in the sky, as an unidentified flying object hovered over the Camilla tribe. Suddenly, the bottom of the UFO opened, and with a powerful whirlwind, sucked all the tribe\"s gold and people inside. The aliens have captured the tribesmen in the UFO."
+  },
+  {
+    "title"  : "Bikini Paradise",
+    "img"    : "game-images/bikini-paradise.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/bikini-paradise/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Hawaii, the famous island known for its sandy beaches and sparkling seas. Surfers love to go there to ride the waves and show off to the beautiful bikini clad ladies tanning on the beach. During the evening, everyone will gather at the beach bar to enjoy a refreshing cocktail while enjoying the gorgeous sunset view. "
+  },
+  {
+    "title"  : "Flirting Scholar",
+    "img"    : "game-images/flirting-scholar.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/flirting-scholar/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Tang Bohu was one of the four great scholars in Jiangnan. He is talented and intelligent, and his skills in chess and calligraphy are well-versed. Tang Bohu and his friends met Mrs. Hua and her 4 maidservants Chunxiang, Xiaxiang, Dongxiang and Qiuxiang when they went to the temple to pray."
+  },
+  {
+    "title"  : "Emperor\"s Favour",
+    "img"    : "game-images/emperors-favour.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/emperors-favour/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "As with all the great emperors of the past, an emperor having a harem was to be expected. Among this harem, there were three imperial consorts, who are said to be the most beautiful women in the empire, that had won the emperor’s favours. "
+  },
+  {
+    "title"  : "Tomb of Treasure",
+    "img"    : "game-images/tomb-of-treasure.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/tomb-of-treasure/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Legend has it that the age-old royal tomb is filled with boundless relics and treasures, and those who are brave enough to enter the labyrinth of tombs will be rewarded with fortune so vast that it is almost beyond belief! Do you have what it takes to step up to the challenge to hunt for the lost treasure in the royal tomb? "
+  },
+  {
+    "title"  : "Santa’s Gift Rush",
+    "img"    : "game-images/santa’s-gift-rush.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/santas-gift-rush/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "White snow flurries in the sky announcing the coming of Christmas. While the streets all exude a happy and warm atmosphere, the atmosphere in the Santa Claus’ gift factory differs greatly."
+  },
+  {
+    "title"  : "Prosperity Lion",
+    "img"    : "game-images/prosperity-lion.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/prosperity-lion/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "The lion is considered the king of beasts in ancient times. It was believed that the lion can repel evil and bring prosperity. According to legend, Jiang Nan was once plagued with disease."
+  },
+  {
+    "title"  : "Wild Inferno",
+    "img"    : "game-images/wild-inferno.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/wild-inferno/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Metalheads have the biggest hearts, and legendary heavy metal band Metaricha is just the living proof of that. For their farewell tour, bassist Cliff Buckton had announced that he will be giving his fortune away to the lucky person who catches his gold studded leather glove! "
+  },
+  {
+    "title"  : "Double Fortune",
+    "img"    : "game-images/double-fortune.png",
+    "iframe" : "<iframe src='https://m.pg-redirect.com/double-fortune/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Song Dynasty’s famous politician and poet Wang Anshi was awarded the honour of top scholar in the imperial examination on his wedding day and he had written two ‘happiness’ characters together on the gate to express his joy."
+  },
+  {
+    "title"  : "Leprechaun Riches",
+    "img"    : "game-images/leprechaun-riches.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/leprechaun-riches/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Dawn was beginning to send misty lights over the rolling land and winds were blowing around the old Irish tower. The Leprechaun was sitting on the ledge of the tower’s window, tapping nails into a little shoe while whistling a merry tune. He is only six inches tall and harder to catch than a will-o’-the-wisp."
+  },
+  {
+    "title"  : "The Great Icescape",
+    "img"    : "game-images/the-great-icescape.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/the-great-icescape/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "The howling wind in Antarctica causes the snow on Baby Penguin’s doorstep to flurry through the air, hitting the Baby Penguin right in its face. It shudders and wraps itself with a thick scarf before waddling off to the square to meet its little friends. Alas, the square is deserted. Turns out that all of its friends are trapped in ice blocks! "
+  },
+  {
+    "title"  : "Muay Thai Champion",
+    "img"    : "game-images/muaythai-champion.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/muay-thai-champion/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Muay Thai is a unique fighting skill characterized for its strength and agility. During a fight, Muay Thai uses a combination of fists, elbows, knees, and shins during strikes that creates 8 points of contact, hence the term Art of Eight Limbs is used to describe Muay Thai. "
+  },
+
+  {
+    "title"  : "Mahjong Ways 2",
+    "img"    : "game-images/mahjong-ways2.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/mahjong-ways2/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "PG SOFT ™ has launched the second game of the popular game ‘Mahjong Ways’. Are you ready for the highly anticipated ‘Mahjong Ways 2’? Mahjong Ways 2 is a 5-reel, 4-row (with an additional row for each of reel 2, 3 and 4) video slot featuring Wild symbol transformation and free spins with increasing multiplier."
+  },
+  {
+    "title"  : "Restaurant Craze",
+    "img"    : "game-images/restaurant-craze.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/restaurant-craze/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Hidden in a lively and bustling city, there is a quaint restaurant that regulars like to call a ‘secret Michelin’. Customers have to sit and order food at the bar."
+  },
+
+  {
+    "title"  : "Symbols of Egypt",
+    "img"    : "game-images/symbols-of-egypt.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/symbols-of-egypt/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Under the immense expanse of the blue sky, a mysterious pyramid stands alone in the middle of a vast desert that stretches to the horizon. Below this magnificent pyramid is the pharaoh’s tomb and a dark secret passage that is vaguely visible to the most keen eyes. "
+  },
+  {
+    "title"  : "Three Monkeys",
+    "img"    : "game-images/three-monkeys.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/three-monkeys/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Winter is the best time enjoy and soak in a hot spring. The famous three wise monkeys, See No Evil, Hear No Evil and Speak No Evil, also known as Mizaru, Kikazaru and Iwazaru respectively, have also adapted to the habit of soaking in the hot springs to warm their bodies during winter. "
+  },
+  {
+    "title"  : "Legend of Hou Yi",
+    "img"    : "game-images/legend-of-hou.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/legend-of-hou-yi/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Long ago in the ancient times, there were tens suns that lived in the sky. They all took turns to fly up to the sky every day. The people on earth lived like this for many decades, happily ploughing their fields at sunrise, and went home to rest at sunset. "
+  },
+
+  {
+    "title"  : "Dragon Legend",
+    "img"    : "game-images/dragon-legend.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/dragon-legend/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "In victory the Koi leaps into the Dragon Gate, a Dragon emerges and fortune awaits! The temple of Dragon Gate City was built on a tall and towering cliff. Under the influence from incense burning within the temple, the Koi fish in the Lotus pond nearby gradually achieve spirituality. "
+  },
+  {
+    "title"  : "Mr. Hallow-Win",
+    "img"    : "game-images/hallow-win.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/mr-hallow-win/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "“Trick or Treat!” The children sang happily as they knocked on the door. The moon shined wanly in the dark sky while a gentle breeze blew by, carrying the children’s laughter as they all wandered on the streets carrying Jack-O-Lanterns in their small hands."
+  },
+  {
+    "title"  : "Phoenix Rises",
+    "img"    : "game-images/phoenix-rises.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/phoenix-rises/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "JinFeng Village was known as the small village located near a mysterious valley. The villagers there were labelled as “Phoenix Guardians”. The reason for this moniker was because the villagers would often forbid curious travellers from ever approaching the valley. Even fellow Guardians were strictly prohibited. "
+  },
+  {
+    "title"  : "Baccarat Deluxe",
+    "img"    : "game-images/baccarat-deluxe.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/baccarat-deluxe/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "PG SOFT™ has launched “Baccarat Deluxe”, with “Super 6” and “Traditional Baccarat”. Baccarat uses 8 decks of cards, for a total of 52 cards. "
+  },
+  {
+    "title"  : "Mahjong Ways",
+    "img"    : "game-images/mahjong-ways.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/mahjong-ways/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "PG SOFT™ has just launched their very first Mahjong inspired slot machine game – “Mahjong Ways”! Mahjong is a game that originated from China, created from the wisdom of ancient Chinese. "
+  },
+  {
+    "title"  : "Dragon Tiger Luck",
+    "img"    : "game-images/dragon-tiger-luck.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/dragon-tiger-luck/index.html?language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "The Dragon summons the wind and rain as it soars in the sky. The Tiger, symbolizing strength, can shake the mountains as it walks on earth. The Dragon and Tiger have always been regarded as the highest mythical beasts in Chinese mythology. They are also said to represent the power of yin and yang. "
+  },
+  {
+    "title"  : "Gem Saviour Sword",
+    "img"    : "game-images/gem-saviour-sword.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/gem-saviour-sword/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Gem Saviour Eric has embarked on an adventure in order to protect the Gem Village from the Witch Ira’s invasion. However, the power of Witch Ira is too powerful to be defeated with just the strength of Eric alone."
+  },
+  {
+    "title"  : "Hip Hop Panda",
+    "img"    : "game-images/hip-hop-panda.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/hip-hop-panda/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "Loud electronic music can be heard from streets away. The queue to the club is unusually long tonight, as everyone is currently eager to catch a glimpse of the famous “Hip Hop Panda”. "
+  },
+  {
+    "title"  : "Piggy Gold",
+    "img"    : "game-images/piggy-gold.png",
+    "iframe" : "<iframe src='https://m.pg-demo.com/piggy-gold/index.html?__pg_refer=m.pg-redirect.com&language=en&bet_type=2&real_url=https%3A%2F%2Fwww.pgsoft.com%2Fen%2Fpartners%2F&from=https%3A%2F%2Fpublic.pg-redirect.com%2Fpages%2Fclose.html' width='100%' height='500px' frameborder='0' allowfullscreen=''></iframe>",
+    "descr"  : "A new year means new beginnings and new fortunes! 2019 will be the year of the Pig! The Pig is the 12th of the zodiac animals and has always been symbols of wealth in the Chinese culture; their chubby faces and big ears are signs of fortune as well!"
+  }
+]
