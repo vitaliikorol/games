@@ -1,7 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/09bcf331281671.5649fb3a57d6c.jpg");
+  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("https://www.rushhourdaily.com/wp-content/uploads/2020/02/gambling-2001078_1280.jpg"), no-repeat;
+  background-size: cover;
+;
 
 }
 

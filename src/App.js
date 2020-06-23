@@ -28,7 +28,7 @@ export const App = () => {
                 <Route path="/Cookies-policy" exact component={Cookies} />
                 <Route path="/Privacy-policy" exact component={Privacy} />
                 {games.map(el => (
-                    <Route path={`/${el.title.split(' ').join('')}`} component={() => <GameWindow />}/>
+                    <Route path={`/${el.title.split(' ').join('')}`} component={() => <GameWindow game={el} />}/>
                 ))}
             </Switch>
             <Footer />

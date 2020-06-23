@@ -5,14 +5,14 @@ import {NavLink} from "react-router-dom";
 export const GameCard = (props) => {
 
     const [opacity, setOpacity] = useState(0)
-    const [size, setSize] = useState(200);
+    const [size, setSize] = useState(1);
     const makeVisible = () => {
         setOpacity(1)
-        setSize(300)
+        setSize(1.3)
     }
     const makeHidden = () => {
         setOpacity(0)
-        setSize(200)
+        setSize(1)
     }
     return (
         <div className="GameCard"
@@ -22,7 +22,7 @@ export const GameCard = (props) => {
                 className="GameCard__image"
                 src={props.img}
                 alt=""
-                style={{maxWidth: `${size}px`, maxHeight: `${size}px`}}
+                style={{transform: `scale(${size})`}}
             />
             <NavLink
                 to={`/${props.game.title.split(' ').join('')}`}
