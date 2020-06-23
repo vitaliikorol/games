@@ -9,10 +9,12 @@ import {Cookies} from "./Cookies/Cookies";
 import {Privacy} from "./Privacy/Privacy";
 import {GamesFromServer} from "./Helpers/fetch";
 import {GameWindow} from "./GameWindow/GameWindow";
+import {Preloader} from "./Preloader/Preloader";
 
 export const App = () => {
     const [games, setGames] = useState([]);
     const gamesFromServer = useContext(GamesFromServer)
+    const [preloader, setPreloader] = useState(false)
 
     useEffect(() => {
         gamesFromServer.then(data => setGames(data));
@@ -23,15 +25,17 @@ export const App = () => {
         <div className="App">
             <Header/>
             <Switch>
-                <Route path="/" exact component={() => <MainPage games={games}/>} />
-                <Route path="/Terms-and-conditions" exact component={Terms} />
-                <Route path="/Cookies-policy" exact component={Cookies} />
-                <Route path="/Privacy-policy" exact component={Privacy} />
+                <Route path="/" exact component={() => (
+                    preloader === true ? (<MainPage games={games}/>) : (<Preloader setPreloader={setPreloader} />)
+                ) }/>
+                <Route path="/Terms-and-conditions" exact component={Terms}/>
+                <Route path="/Cookies-policy" exact component={Cookies}/>
+                <Route path="/Privacy-policy" exact component={Privacy}/>
                 {games.map(el => (
-                    <Route path={`/${el.title.split(' ').join('')}`} component={() => <GameWindow game={el} />}/>
+                    <Route path={`/${el.title.split(' ').join('')}`} component={() => <GameWindow game={el}/>}/>
                 ))}
             </Switch>
-            <Footer />
+            <Footer/>
         </div>
 
     );
