@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vitaliikorol.github.io/games/precache-manifest.0dde20bf00d6a830ea0832cbd997e365.js"
+  "/vitaliikorol.github.io/games/precache-manifest.52f207e63054ab3ce26087307a9273e6.js"
 );
 
 self.addEventListener('message', (event) => {
